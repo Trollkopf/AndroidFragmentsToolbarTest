@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejercicio5MasterD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_example">Fragment Example</string>
+    <string name="enter_some_text">Enter Some Text</string>
+    <string name="submit">Submit</string>
+    <string name="text_appear">Text will appear here</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+</resources>
