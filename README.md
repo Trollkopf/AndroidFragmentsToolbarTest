@@ -28,7 +28,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Trollkopf/FragmentToolbarApp.git```
+   git clone https://github.com/Trollkopf/FragmentToolbarApp.git
 
 2. **Open in Android Studio:**
    - Launch Android Studio.
